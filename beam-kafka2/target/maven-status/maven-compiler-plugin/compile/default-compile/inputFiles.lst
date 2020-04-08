@@ -1,0 +1,4 @@
+/root/sky/beam-kafka2/src/main/java/org/mattiazaffalon/BeamKafkaIOExampleAvroDeserializers.java
+/root/sky/beam-kafka2/src/main/java/org/mattiazaffalon/BeamKafkaIOExampleBasicsDeserializers.java
+/root/sky/beam-kafka2/src/main/java/org/mattiazaffalon/common/WriteOneFilePerWindow.java
+/root/sky/beam-kafka2/src/main/java/org/mattiazaffalon/App.java

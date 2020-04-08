@@ -1,0 +1,8 @@
+org/mattiazaffalon/common/WriteOneFilePerWindow.class
+org/mattiazaffalon/BeamKafkaIOExampleBasicsDeserializers$KafkaConnectOptions.class
+org/mattiazaffalon/BeamKafkaIOExampleAvroDeserializers$KafkaConnectOptions.class
+org/mattiazaffalon/BeamKafkaIOExampleAvroDeserializers.class
+org/mattiazaffalon/BeamKafkaIOExampleBasicsDeserializers.class
+org/mattiazaffalon/App.class
+org/mattiazaffalon/common/WriteOneFilePerWindow$PerWindowFiles.class
+org/mattiazaffalon/BeamKafkaIOExampleAvroDeserializers$1.class

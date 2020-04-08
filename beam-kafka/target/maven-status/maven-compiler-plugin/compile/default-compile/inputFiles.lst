@@ -1,0 +1,3 @@
+/root/sky/beam-kafka/src/main/java/org/mattiazaffalon/App.java
+/root/sky/beam-kafka/src/main/java/org/mattiazaffalon/BeamKafkaIOExampleBasicsDeserializers.java
+/root/sky/beam-kafka/src/main/java/org/mattiazaffalon/common/WriteOneFilePerWindow.java

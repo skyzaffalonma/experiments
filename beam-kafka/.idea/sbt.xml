@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
+    <option name="vmParameters" value="-Dhttp.nonProxyHosts=npo-nexus.eecloud.dynamic.nsn-net.net,artifactory-espoo1.ext.net.nokia.com -Dhttps.nonProxyHosts=npo-nexus.eecloud.dynamic.nsn-net.net,artifactory-espoo1.ext.net.nokia.com -Dhttp.proxyHost=135.245.192.7 -Dhttp.proxyPort=8000 -Dhttps.proxyHost=135.245.192.7 -Dhttps.proxyPort=8000" />
+  </component>
+</project>
